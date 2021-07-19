@@ -1,0 +1,1 @@
+<?php /* Jangan Lupa Bersyukur */
